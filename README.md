@@ -11,7 +11,7 @@ ConfigMaps and Secrets.
 ## 🏗️ Application Architecture
 User Browser
 
-added
+
 
 Ingress Controller (Traffic Routing)
 
