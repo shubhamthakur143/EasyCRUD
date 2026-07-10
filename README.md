@@ -10,7 +10,7 @@ ConfigMaps and Secrets.
 
 ## 🏗️ Application Architecture
 User Browser
-
+added one line
 
 ↓
 
